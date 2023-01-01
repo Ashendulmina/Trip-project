@@ -1,0 +1,178 @@
+//pahiyangala
+//var pahiyangala = {
+//  "name": "pahiyangala",
+//  "description": "pahiyangala",
+//  "author": "pahiyangala",
+//  "version": "0.1",
+//  "main": "./main.js",
+//  "scripts": {
+//    "test": "./test.js",
+//    "build": "./build.js",
+//    "start": "./start.js",
+//    "stop": "./stop.js",
+//    "restart": "./restart.js",
+//    "kill": "./kill.js",
+//    "status": "./status.js"
+//  },
+//  "bower": {
+//    "main": "bower_components/pahiyangala/main.js"
+//  },
+//  "dependencies": {
+//    "jquery": "~1.11.2",
+//    "angular": "~1.2.0",
+//    "angular-route": "~1.2.0",
+//    "angular-animate": "~1.2.0",
+//    "angular-sanitize": "~1.2.0",
+//    "angular-ui-router": "~0.2.10",
+//    "angular-bootstrap": "~0.3.1",
+//    "angular-ui-utils": "~0.2.10",
+//    "angular-cookies": "~0.2.10",
+//    "angular-messages": "~0.2.10",
+//    "angular-touch": "~0.2.10",
+//    "angular-bootstrap-show-errors": "~0.2.10",
+//    "angular-bootstrap-switch": "~0.2.10",
+//    "angular-bootstrap-switch-toggle": "~0.2.10",
+//    "angular-bootstrap-switch-radio": "~0.2.10",
+//    "angular-bootstrap-switch-checkbox": "~0.2.10",
+//    "angular-bootstrap-switch-checkbox-inline": "~0.2.10",
+//    "angular-bootstrap-switch-checkbox-inline-label": "~0.2.10",
+//    "angular-bootstrap-switch-checkbox-inline-label-active": "~0.2.
+//  }
+//};
+//pahiyangala.main();
+//pahiyangala.start();
+//pahiyangala.stop();
+//pahiyangala.restart();
+//pahiyangala.kill();
+//pahiyangala.status();
+//pahiyangala.test();
+//pahiyangala.build();
+//pahiyangala.bower();
+//pahiyangala.dependencies();
+//pahiyangala.version();
+//pahiyangala.name();
+//pahiyangala.description();
+//pahiyangala.author();
+//pahiyangala.main();
+//pahiyangala.scripts();
+
+//kukulegaga-power-plant
+//var kukulegagaPowerPlant = {
+//  "name": "kukulegagaPowerPlant",
+//  "description": "kukulegagaPowerPlant",
+//  "author": "kukulegagaPowerPlant",
+//  "version": "0.1",
+//  "main": "./main.js",
+//  "scripts": {
+//    "test": "./test.js",
+//    "build": "./build.js",
+//    "start": "./start.js",
+//    "stop": "./stop.js",
+//    "restart": "./restart.js",
+//    "kill": "./kill.js",
+//    "status": "./status.js"
+//  },
+//  "bower": {
+//    "main": "bower_components/kukulegagaPowerPlant/main.js"
+//  },
+//  "dependencies": {
+//    "jquery": "~1.11.2",
+//    "angular": "~1.2.0",
+//    "angular-route": "~1.2.0",
+//    "angular-animate": "~1.2.0",
+//    "angular-sanitize": "~1.2.0",
+//    "angular-ui-router": "~0.2.10",
+//    "angular-bootstrap": "~0.3.1",
+//    "angular-ui-utils": "~0.2.10",
+//    "angular-cookies": "~0.2.10",
+//    "angular-messages": "~0.2.10",
+//    "angular-touch": "~0.2.10",
+//    "angular-bootstrap-show-errors": "~0.2.10",
+//    "angular-bootstrap-switch": "~0.2.10",
+//    "angular-bootstrap-switch-toggle": "~0.2.10",
+//    "angular-bootstrap-switch-radio": "~0.2.10",
+//    "angular-bootstrap-switch-checkbox": "~0.2.10",
+//    "angular-bootstrap-switch-checkbox-inline": "~0.2.10",
+//    "angular-bootstrap-switch-checkbox-inline-label": "~0.2.10",
+//    "angular-bootstrap-switch-checkbox-inline-label-active": "~0.2.
+//  }
+//};
+//kukulegagaPowerPlant.main();
+//kukulegagaPowerPlant.start();
+//kukulegagaPowerPlant.stop();
+//kukulegagaPowerPlant.restart();
+//kukulegagaPowerPlant.kill();
+//kukulegagaPowerPlant.status();
+//kukulegagaPowerPlant.test();
+//kukulegagaPowerPlant.build();
+//kukulegagaPowerPlant.bower();
+//kukulegagaPowerPlant.dependencies();
+//kukulegagaPowerPlant.version();
+//kukulegagaPowerPlant.name();
+//kukulegagaPowerPlant.description();
+//kukulegagaPowerPlant.author();
+//kukulegagaPowerPlant.main();
+//kukulegagaPowerPlant.scripts();
+
+var pahiyangala = {
+  "name": "pahiyangala",
+  "description": "pahiyangala",
+  "author": "Ashen's Nocode Document Maker",
+  "version": "0.1",
+  "main": "./Built.metadata",
+  "endpoint": "http://localhost:8080/pahiyangala/",
+  "export-path": "/builds/<export-name> + <extentionn>",
+  "export-name": "pahiyangala",
+  "extention": "encode=U+8('.pdf')",
+  "scripts": {
+    "build": "./main.java",
+    "start": "./start.java",
+  },
+  "printable": {
+    "name": "pahiyangala",
+    "description": "pahiyangala",
+    "author": "Ashen's Nocode Document Maker",
+    "imports": "./build.metadata"
+  },
+  "ftype": {
+    "name": "pahiyangala",
+    "filetype": "pdf(MS)",
+    "export-flag": "true",
+    "flag": "pahiyangala.pdf Built"
+  }
+}
+
+var make() {
+  "name": "make",
+  "description": "make",
+  "author": "Ashen's Nocode Document Maker",
+  "version": "0.1",
+  "main": "./Built.metadata",
+  "pdf": "imports + /Tool/Filetypes/MS/Windows/pdf/pdf.ini",
+  "scripts": {
+    import toolkit.files
+    from toolkit.files get MS.pdf
+    lib MS.pdf caller pdfl
+    import toolkit.core
+    from toolkit.core get Ever.Html
+    lib Ever.Html caller html
+    from main.java import convert
+    lib convert caller convert
+    
+      event {
+        call html
+        call pdfl
+        convert.file {
+          get (filename, ftype, fpath);
+          caller.convert.file {
+            convert1(Currnt.html == index.html)
+            convert2(Currnt.pdf == filename+ftype)
+            convertpath(Currnt.path == fpath)
+            convert.build(convert1, convert2, convertpath);
+          }
+        }
+      
+      }
+    }
+  }
+}

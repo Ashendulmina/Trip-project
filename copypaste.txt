@@ -1,0 +1,9 @@
+<div class="cpic">
+  <h2>cont</h2>
+  <img src="" alt="cont">
+</div>
+
+<div class="card">
+  <h2>Pahiyangala Cave</h2>
+  <p>lorem</p>
+</div>
